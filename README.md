@@ -26,7 +26,7 @@ public class pattern1
 }
 ~~~
 
-#Output:
+# Output:
 
 ![image](https://user-images.githubusercontent.com/102411421/224884421-4ee1e820-c415-4ac9-b1da-0bd0823f2128.png)
 
@@ -64,7 +64,7 @@ public class pattern2
 }
 ~~~
 
-#Output:
+# Output:
 
 ![image](https://user-images.githubusercontent.com/102411421/224884490-28156f92-0634-4055-838e-a747c092e29e.png)
 
@@ -107,6 +107,6 @@ public class pattern3
 }
 ~~~
 
-#Output:
+# Output:
 
 ![image](https://user-images.githubusercontent.com/102411421/224884554-895d5c68-ac05-48ac-a0de-fcc9377501ef.png)

@@ -7,6 +7,7 @@
 *****
 *****
 ~~~
+# Program:
 ~~~
 public class pattern1
 {
@@ -38,6 +39,7 @@ public class pattern1
    ***
     *
 ~~~
+# Program:
 ~~~
 public class pattern2
 {
@@ -78,6 +80,7 @@ public class pattern2
 **
 *
 ~~~
+# Program:
 ~~~
 public class pattern3
 {
